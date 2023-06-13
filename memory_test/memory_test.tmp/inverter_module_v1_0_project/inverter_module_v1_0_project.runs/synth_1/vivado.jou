@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Jun 10 15:54:40 2023
+# Process ID: 157574
+# Current directory: /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/memory_test.tmp/inverter_module_v1_0_project/inverter_module_v1_0_project.runs/synth_1
+# Command line: vivado -log inverter_module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source inverter_module.tcl
+# Log file: /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/memory_test.tmp/inverter_module_v1_0_project/inverter_module_v1_0_project.runs/synth_1/inverter_module.vds
+# Journal file: /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/memory_test.tmp/inverter_module_v1_0_project/inverter_module_v1_0_project.runs/synth_1/vivado.jou
+# Running On: jk, OS: Linux, CPU Frequency: 1200.000 MHz, CPU Physical cores: 12, Host memory: 6062 MB
+#-----------------------------------------------------------
+source inverter_module.tcl -notrace

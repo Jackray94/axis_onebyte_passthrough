@@ -1,0 +1,16 @@
+// Mem file initialization records.
+//
+// SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+// Vivado v2022.1 (64-bit)
+// Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+// Created on Saturday June 10, 2023 - 03:57:15 pm, from:
+//
+//     Map file     - /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/memory_test.gen/sources_1/bd/echo_server_mem_test/echo_server_mem_test.bmm
+//     Data file(s) - /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/memory_test.gen/sources_1/bd/echo_server_mem_test/ip/echo_server_mem_test_microblaze_0_0/data/mb_bootloop_le.elf
+//
+// Address space 'echo_server_mem_test_i_microblaze_0.echo_server_mem_test_i_microblaze_0_local_memory_lmb_bram_32K_2_ADDR_SPACE', bit lane [31:0].
+//
+// Bus width = 32 bits, number of bus blocks = 1.
+
+@00000000
+    B8000000

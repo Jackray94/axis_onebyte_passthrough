@@ -1,0 +1,25 @@
+vhdl xil_defaultlib  \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_microblaze_0_0/sim/echo_server_mem_test_microblaze_0_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_dlmb_v10_0/sim/echo_server_mem_test_dlmb_v10_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_ilmb_v10_0/sim/echo_server_mem_test_ilmb_v10_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_dlmb_bram_if_cntlr_0/sim/echo_server_mem_test_dlmb_bram_if_cntlr_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_ilmb_bram_if_cntlr_0/sim/echo_server_mem_test_ilmb_bram_if_cntlr_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_microblaze_0_axi_intc_0/sim/echo_server_mem_test_microblaze_0_axi_intc_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_mdm_1_0/sim/echo_server_mem_test_mdm_1_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_rst_clk_wiz_1_100M_0/sim/echo_server_mem_test_rst_clk_wiz_1_100M_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_axi_ethernetlite_0_0/sim/echo_server_mem_test_axi_ethernetlite_0_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_axi_timer_0_0/sim/echo_server_mem_test_axi_timer_0_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_axi_uartlite_0_0/sim/echo_server_mem_test_axi_uartlite_0_0.vhd" \
+
+vhdl mii_to_rmii_v2_0_21  \
+"../../../../memory_test.gen/sources_1/bd/echo_server_mem_test/ipshared/25d7/hdl/mii_to_rmii_v2_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_mii_to_rmii_0_0/sim/echo_server_mem_test_mii_to_rmii_0_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_axi_smc_1/bd_0/ip/ip_1/sim/bd_2d1e_psr0_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_axi_smc_1/bd_0/ip/ip_2/sim/bd_2d1e_psr_aclk_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_axi_smc_1/bd_0/ip/ip_3/sim/bd_2d1e_psr_aclk1_0.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_rst_mig_7series_0_81M_2/sim/echo_server_mem_test_rst_mig_7series_0_81M_2.vhd" \
+"../../../bd/echo_server_mem_test/ip/echo_server_mem_test_axi_dma_0_0/sim/echo_server_mem_test_axi_dma_0_0.vhd" \
+
+nosort

@@ -1,0 +1,1081 @@
+TRACE::2023-06-10.12:13:19::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:19::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:19::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:19::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:19::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:19::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-06-10.12:13:26::SCWPlatform::Opened new HwDB with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2023-06-10.12:13:26::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat"
+		}]
+}
+TRACE::2023-06-10.12:13:26::SCWPlatform::Boot application domains not present, creating them
+TRACE::2023-06-10.12:13:26::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2023-06-10.12:13:26::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat"
+		}]
+}
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:26::SCWDomain::checking for install qemu data   : 
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:26::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:26::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:26::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-06-10.12:13:26::SCWMssOS::No sw design opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:26::SCWMssOS::mss does not exists at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:26::SCWMssOS::Creating sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:26::SCWMssOS::Adding the swdes entry, created swdb /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss with des name /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:26::SCWMssOS::updating the scw layer changes to swdes at   /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:26::SCWMssOS::Writing mss at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:26::SCWMssOS::Completed writing the mss file at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-10.12:13:26::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2023-06-10.12:13:26::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2023-06-10.12:13:26::SCWMssOS::Completed writing the mss file at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-10.12:13:26::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Saving the mss changes /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Adding the swdes entry, mss present, able to open swdb /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2023-06-10.12:13:27::SCWMssOS::Writing the mss file completed /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Commit changes completed.
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"485a756e6797f1eed3351f836e02aa31",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2023-06-10.12:13:27::SCWPlatform::Started generating the artifacts platform plat
+TRACE::2023-06-10.12:13:27::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-06-10.12:13:27::SCWPlatform::Started generating the artifacts for system configuration plat
+LOG::2023-06-10.12:13:27::SCWSystem::Checking the domain standalone_domain
+LOG::2023-06-10.12:13:27::SCWSystem::Not a boot domain 
+LOG::2023-06-10.12:13:27::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2023-06-10.12:13:27::SCWDomain::Generating domain artifcats
+TRACE::2023-06-10.12:13:27::SCWMssOS::Generating standalone artifcats
+TRACE::2023-06-10.12:13:27::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Completed writing the mss file at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-10.12:13:27::SCWMssOS::Mss edits present, copying mssfile into export location /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-06-10.12:13:27::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-06-10.12:13:27::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2023-06-10.12:13:27::SCWMssOS::skipping the bsp build ... 
+TRACE::2023-06-10.12:13:27::SCWMssOS::Copying to export directory.
+TRACE::2023-06-10.12:13:27::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-06-10.12:13:27::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2023-06-10.12:13:27::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2023-06-10.12:13:27::SCWSystem::Completed Processing the sysconfig plat
+LOG::2023-06-10.12:13:27::SCWPlatform::Completed generating the artifacts for system configuration plat
+TRACE::2023-06-10.12:13:27::SCWPlatform::Started preparing the platform 
+TRACE::2023-06-10.12:13:27::SCWSystem::Writing the bif file for system config plat
+TRACE::2023-06-10.12:13:27::SCWSystem::dir created 
+TRACE::2023-06-10.12:13:27::SCWSystem::Writing the bif 
+TRACE::2023-06-10.12:13:27::SCWPlatform::Started writing the spfm file 
+TRACE::2023-06-10.12:13:27::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-06-10.12:13:27::SCWPlatform::Completed generating the platform
+TRACE::2023-06-10.12:13:27::SCWMssOS::Saving the mss changes /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Commit changes completed.
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"485a756e6797f1eed3351f836e02aa31",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-06-10.12:13:27::SCWPlatform::updated the xpfm file.
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Saving the mss changes /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Commit changes completed.
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"485a756e6797f1eed3351f836e02aa31",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Saving the mss changes /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Commit changes completed.
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"485a756e6797f1eed3351f836e02aa31",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-06-10.12:13:27::SCWMssOS::Saving the mss changes /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-10.12:13:27::SCWMssOS::Commit changes completed.
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:27::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:27::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"485a756e6797f1eed3351f836e02aa31",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-06-10.12:13:27::SCWPlatform::Clearing the existing platform
+TRACE::2023-06-10.12:13:27::SCWSystem::Clearing the existing sysconfig
+TRACE::2023-06-10.12:13:27::SCWMssOS::Removing the swdes entry for  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:27::SCWSystem::Clearing the domains completed.
+TRACE::2023-06-10.12:13:27::SCWPlatform::Clearing the opened hw db.
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform location is /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Removing the HwDB with name /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:27::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:27::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-06-10.12:13:35::SCWPlatform::Opened new HwDB with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWReader::Active system found as  plat
+TRACE::2023-06-10.12:13:35::SCWReader::Handling sysconfig plat
+TRACE::2023-06-10.12:13:35::SCWDomain::checking for install qemu data   : 
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:35::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-06-10.12:13:35::SCWMssOS::No sw design opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWMssOS::mss exists loading the mss file  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWMssOS::Opened the sw design from mss  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWMssOS::Adding the swdes entry /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2023-06-10.12:13:35::SCWMssOS::updating the scw layer about changes
+TRACE::2023-06-10.12:13:35::SCWMssOS::Opened the sw design.  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWMssOS::Saving the mss changes /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-10.12:13:35::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-10.12:13:35::SCWMssOS::Commit changes completed.
+TRACE::2023-06-10.12:13:35::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2023-06-10.12:13:35::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:35::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:35::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:35::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:35::SCWReader::No isolation master present  
+LOG::2023-06-10.12:13:40::SCWPlatform::Started generating the artifacts platform plat
+TRACE::2023-06-10.12:13:40::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-06-10.12:13:40::SCWPlatform::Started generating the artifacts for system configuration plat
+LOG::2023-06-10.12:13:40::SCWSystem::Checking the domain standalone_domain
+LOG::2023-06-10.12:13:40::SCWSystem::Not a boot domain 
+LOG::2023-06-10.12:13:40::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2023-06-10.12:13:40::SCWDomain::Generating domain artifcats
+TRACE::2023-06-10.12:13:40::SCWMssOS::Generating standalone artifcats
+TRACE::2023-06-10.12:13:40::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-06-10.12:13:40::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:40::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:40::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:40::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:40::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:40::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:40::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:40::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:40::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:40::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:40::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:40::SCWMssOS::Completed writing the mss file at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-10.12:13:40::SCWMssOS::Mss edits present, copying mssfile into export location /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:40::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-06-10.12:13:40::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-06-10.12:13:40::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2023-06-10.12:13:40::SCWMssOS::doing bsp build ... 
+TRACE::2023-06-10.12:13:40::SCWMssOS::System Command Ran  cd  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp ; bash -c "make  " 
+TRACE::2023-06-10.12:13:40::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Finished building libraries sequentially.
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -j 10 --no-print-directory par_libs
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/standalone_v7_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/intc_v3_14/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2023-06-10.12:13:40::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2023-06-10.12:13:40::SCWMssOS::ons -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2023-06-10.12:13:40::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2023-06-10.12:13:40::SCWMssOS::Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/emaclite_v4_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/emaclite_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" 
+TRACE::2023-06-10.12:13:40::SCWMssOS::"COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-section
+TRACE::2023-06-10.12:13:40::SCWMssOS::s -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/uartlite_v3_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/bram_v4_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" 
+TRACE::2023-06-10.12:13:40::SCWMssOS::"COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-section
+TRACE::2023-06-10.12:13:40::SCWMssOS::s -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2023-06-10.12:13:40::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2023-06-10.12:13:40::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/axidma_v9_14/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/axidma_v9_14/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2023-06-10.12:13:40::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2023-06-10.12:13:40::SCWMssOS:: -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make include in microblaze_0/libsrc/cpu_v2_15/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2023-06-10.12:13:40::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2023-06-10.12:13:40::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2023-06-10.12:13:40::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2023-06-10.12:13:40::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/standalone_v7_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2023-06-10.12:13:40::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2023-06-10.12:13:40::SCWMssOS:: -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/intc_v3_14/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2023-06-10.12:13:40::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2023-06-10.12:13:40::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/emaclite_v4_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/emaclite_v4_7/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2023-06-10.12:13:40::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2023-06-10.12:13:40::SCWMssOS::Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "CO
+TRACE::2023-06-10.12:13:40::SCWMssOS::MPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -
+TRACE::2023-06-10.12:13:40::SCWMssOS::Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/bram_v4_7/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2023-06-10.12:13:40::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2023-06-10.12:13:40::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/axidma_v9_14/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/axidma_v9_14/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2023-06-10.12:13:40::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2023-06-10.12:13:40::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::Running Make libs in microblaze_0/libsrc/cpu_v2_15/src
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2023-06-10.12:13:40::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2023-06-10.12:13:40::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:40::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s libs  "SHELL=/bin/sh" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2023-06-10.12:13:40::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2023-06-10.12:13:40::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::Finished building libraries parallelly.
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::make --no-print-directory archive
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/microblaze_invalidate_icache_range.o m
+TRACE::2023-06-10.12:13:41::SCWMssOS::icroblaze_0/lib/xtmrctr_sinit.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/xtmrctr_g.o microblaze_0/lib/xemac
+TRACE::2023-06-10.12:13:41::SCWMssOS::lite.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xil_testcache.o micr
+TRACE::2023-06-10.12:13:41::SCWMssOS::oblaze_0/lib/xemaclite_intr.o microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_util.o microblaze_0/lib/microbla
+TRACE::2023-06-10.12:13:41::SCWMssOS::ze_selftest.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/xtmrctr.o microblaze_0/lib/xuartlite_sinit.o mic
+TRACE::2023-06-10.12:13:41::SCWMssOS::roblaze_0/lib/microblaze_sleep.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/xuartlite_intr.o microblaz
+TRACE::2023-06-10.12:13:41::SCWMssOS::e_0/lib/xuartlite_g.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib
+TRACE::2023-06-10.12:13:41::SCWMssOS::/microblaze_enable_exceptions.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/outbyte.o microblaze_0/lib/xintc_l.o microb
+TRACE::2023-06-10.12:13:41::SCWMssOS::laze_0/lib/xuartlite.o microblaze_0/lib/xio.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/xil_sleepcommon
+TRACE::2023-06-10.12:13:41::SCWMssOS::.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xaxidma_bd.o microblaze_0/lib/microblaze_flush_cache_ext_ra
+TRACE::2023-06-10.12:13:41::SCWMssOS::nge.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xaxidma_selftest.o microblaze_0/lib/xemaclite_l.o microblaze_0/lib/xaxidma_si
+TRACE::2023-06-10.12:13:41::SCWMssOS::nit.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/xbram_selft
+TRACE::2023-06-10.12:13:41::SCWMssOS::est.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/xaxidma_g.o microblaze_0/lib/microblaze_scrub.o microbl
+TRACE::2023-06-10.12:13:41::SCWMssOS::aze_0/lib/xemaclite_g.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/microblaze_disable_dcache.o m
+TRACE::2023-06-10.12:13:41::SCWMssOS::icroblaze_0/lib/inbyte.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xil_misc_psreset_api.o micr
+TRACE::2023-06-10.12:13:41::SCWMssOS::oblaze_0/lib/xintc_g.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/microbla
+TRACE::2023-06-10.12:13:41::SCWMssOS::ze_flush_cache_ext.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xil_testio.o microblaze_0/lib/_exit.o microblaze_0/
+TRACE::2023-06-10.12:13:41::SCWMssOS::lib/xtmrctr_options.o microblaze_0/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xplatform
+TRACE::2023-06-10.12:13:41::SCWMssOS::_info.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/microblaze_init_icache_range.o microbl
+TRACE::2023-06-10.12:13:41::SCWMssOS::aze_0/lib/fcntl.o microblaze_0/lib/xaxidma_bdring.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xtmrctr_stats.o microblaze_0
+TRACE::2023-06-10.12:13:41::SCWMssOS::/lib/xemaclite_selftest.o microblaze_0/lib/xintc.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/xemaclite_sinit
+TRACE::2023-06-10.12:13:41::SCWMssOS::.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xil_assert.o microblaze_0/l
+TRACE::2023-06-10.12:13:41::SCWMssOS::ib/xil_clocking.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xbram.o microblaz
+TRACE::2023-06-10.12:13:41::SCWMssOS::e_0/lib/xil_exception.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o mic
+TRACE::2023-06-10.12:13:41::SCWMssOS::roblaze_0/lib/microblaze_disable_exceptions.o microblaze_0/lib/xintc_options.o microblaze_0/lib/errno.o microblaze_0/lib/xaxidm
+TRACE::2023-06-10.12:13:41::SCWMssOS::a.o microblaze_0/lib/microblaze_init_dcache_range.o
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::Finished building libraries
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::Copying to export directory.
+TRACE::2023-06-10.12:13:41::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-06-10.12:13:41::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2023-06-10.12:13:41::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2023-06-10.12:13:41::SCWSystem::Completed Processing the sysconfig plat
+LOG::2023-06-10.12:13:41::SCWPlatform::Completed generating the artifacts for system configuration plat
+TRACE::2023-06-10.12:13:41::SCWPlatform::Started preparing the platform 
+TRACE::2023-06-10.12:13:41::SCWSystem::Writing the bif file for system config plat
+TRACE::2023-06-10.12:13:41::SCWSystem::dir created 
+TRACE::2023-06-10.12:13:41::SCWSystem::Writing the bif 
+TRACE::2023-06-10.12:13:41::SCWPlatform::Started writing the spfm file 
+TRACE::2023-06-10.12:13:41::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-06-10.12:13:41::SCWPlatform::Completed generating the platform
+TRACE::2023-06-10.12:13:41::SCWMssOS::Saving the mss changes /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-10.12:13:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-10.12:13:41::SCWMssOS::Commit changes completed.
+TRACE::2023-06-10.12:13:41::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:41::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:41::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:41::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:41::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:41::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:41::SCWWriter::formatted JSON is {
+	"platformName":	"plat",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"plat",
+	"platHandOff":	"/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/echo_server_mem_test_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/echo_server_mem_test_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"plat",
+	"systems":	[{
+			"systemName":	"plat",
+			"systemDesc":	"plat",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"plat",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"485a756e6797f1eed3351f836e02aa31",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-06-10.12:13:41::SCWPlatform::updated the xpfm file.
+TRACE::2023-06-10.12:13:41::SCWPlatform::Trying to open the hw design at /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform::DSA given /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform::DSA absoulate path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform::DSA directory /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw
+TRACE::2023-06-10.12:13:41::SCWPlatform:: Platform Path /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/hw/echo_server_mem_test_wrapper.xsa
+TRACE::2023-06-10.12:13:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-10.12:13:41::SCWPlatform::Trying to set the existing hwdb with name echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:41::SCWPlatform::Opened existing hwdb echo_server_mem_test_wrapper_1
+TRACE::2023-06-10.12:13:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-10.12:13:41::SCWMssOS::Checking the sw design at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-10.12:13:41::SCWMssOS::DEBUG:  swdes dump  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-10.12:13:41::SCWMssOS::Sw design exists and opened at  /home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/microblaze_0/standalone_domain/bsp/system.mss

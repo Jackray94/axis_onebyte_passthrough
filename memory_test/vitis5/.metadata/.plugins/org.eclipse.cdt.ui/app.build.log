@@ -1,0 +1,40 @@
+16:54:21 **** Incremental Build of configuration Debug for project app ****
+make all 
+Building file: ../src/run.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/run.o" -I/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/export/plat/sw/plat/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/run.d" -MT"src/run.o" -o "src/run.o" "../src/run.c"
+../src/run.c: In function 'main':
+../src/run.c:76:5: warning: this 'while' clause does not guard... [-Wmisleading-indentation]
+   76 |     while(status != 2)
+      |     ^~~~~
+../src/run.c:79:9: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'while'
+   79 |         xil_printf("DMA transfer success..\r\n");
+      |         ^~~~~~~~~~
+../src/run.c:18:57: warning: unused variable 'status_SR_MM2S' [-Wunused-variable]
+   18 |     u32 status_CR_S2MM, status_SR_S2MM, status_CR_MM2S, status_SR_MM2S;
+      |                                                         ^~~~~~~~~~~~~~
+../src/run.c:18:41: warning: unused variable 'status_CR_MM2S' [-Wunused-variable]
+   18 |     u32 status_CR_S2MM, status_SR_S2MM, status_CR_MM2S, status_SR_MM2S;
+      |                                         ^~~~~~~~~~~~~~
+../src/run.c:18:25: warning: unused variable 'status_SR_S2MM' [-Wunused-variable]
+   18 |     u32 status_CR_S2MM, status_SR_S2MM, status_CR_MM2S, status_SR_MM2S;
+      |                         ^~~~~~~~~~~~~~
+../src/run.c:18:9: warning: unused variable 'status_CR_S2MM' [-Wunused-variable]
+   18 |     u32 status_CR_S2MM, status_SR_S2MM, status_CR_MM2S, status_SR_MM2S;
+      |         ^~~~~~~~~~~~~~
+Finished building: ../src/run.c
+ 
+Building target: app.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/export/plat/sw/plat/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "app.elf"  ./src/run.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: app.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size app.elf  |tee "app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  10000	    392	   3104	  13496	   34b8	app.elf
+Finished building: app.elf.size
+ 
+
+16:54:21 Build Finished (took 217ms)
+

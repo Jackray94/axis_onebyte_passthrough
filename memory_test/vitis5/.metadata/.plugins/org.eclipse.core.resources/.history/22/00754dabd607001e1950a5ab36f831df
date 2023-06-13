@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="app" location="/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/app" platform="/home/jack/VERILOG/4_29_onward/axis_ip_attempt1_part2/memory_test/vitis5/plat/export/plat/plat.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="app_system" sysConfig="plat" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="8c298531730870bde407a1c9a933969c">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1803875924">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.798596171" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
